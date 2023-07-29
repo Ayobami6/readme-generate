@@ -35,7 +35,7 @@ readme-generate
 
 - Answer the prompt and your README.md file will be generated in the current directory.
 
-https://drive.google.com/file/d/1gTAqz8_QkVI0manHUD7sjqJU5oRjdTWC/view?usp=sharing
+<iframe width="640" height="360" src="https://drive.google.com/file/d/1gTAqz8_QkVI0manHUD7sjqJU5oRjdTWC/preview" frameborder="0" allowfullscreen></iframe>
 
 ### Development Setup
 
