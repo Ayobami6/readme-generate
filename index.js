@@ -47,7 +47,7 @@ const answer = (ans) => {
     console.log(error);
   }
 
-  console.log('Creating your Markdwn');
+  console.log('Creating your Markdown');
 
   rl.close();
 };
