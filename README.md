@@ -35,9 +35,7 @@ readme-generate
 
 - Answer the prompt and your README.md file will be generated in the current directory.
 
-<video width="640" height="360" controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+https://drive.google.com/file/d/1gTAqz8_QkVI0manHUD7sjqJU5oRjdTWC/view?usp=sharing
 
 ### Development Setup
 
@@ -46,6 +44,7 @@ readme-generate
 ```sh
 git clone <url>
 ```
+
 - cd into the project directory
 
 ```sh
@@ -70,13 +69,11 @@ Contributions, issues and feature requests are welcome!
 feel free to check [issues page]()
 
 ## Show your support
+
 If you find this project useful, please give it a ⭐️!
-
-
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
