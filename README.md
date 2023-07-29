@@ -35,7 +35,7 @@ readme-generate
 
 - Answer the prompt and your README.md file will be generated in the current directory.
 
-<iframe width="640" height="360" src="https://drive.google.com/file/d/1gTAqz8_QkVI0manHUD7sjqJU5oRjdTWC/preview" frameborder="0" allowfullscreen></iframe>
+https://github.com/Ayobami6/readme-generate/assets/91608325/f559bcc6-0842-4b36-8750-4c13b8b804ea
 
 ### Development Setup
 
