@@ -1,0 +1,31 @@
+{
+  "name": "@ayobami6/readme-generate",
+  "version": "1.0.0",
+  "description": "Generate a detialed readme with AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.46.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.0"
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0"
+  },
+  "keywords": [
+    "readme",
+    "generate",
+    "ai",
+    "openai",
+    "openai-api",
+    "cli",
+    "command-line"
+  ],
+  "author": "Ayobami Alaran",
+  "license": "MIT"
+}
