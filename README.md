@@ -13,6 +13,15 @@
 
 Generate a detail and organized README.md file for your project using the command line with just simple prompt.
 
+## Prerequisites
+- Install node and npm
+
+```sh
+sudo apt install nodejs
+or
+sudo apt install node
+```
+
 ## Usage
 
 - Install the package globally
